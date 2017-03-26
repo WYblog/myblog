@@ -1,2 +1,3 @@
 ## Welcome to WangYang the blog Pages
-# 我的博客
+# my blog
+##contact way：wangyangmailbox@qq.com
